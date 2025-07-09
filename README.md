@@ -52,4 +52,14 @@ GitHub: [@AAstik6](https://github.com/AAstik6)
 
 ---
 
-Let me know if you want a **more detailed version** or want to customize it based on what models you used, dataset size, results, etc.
+## 📄 Research Paper
+
+This project is documented in a full research paper:
+
+**Title:** Stream Cipher Classification Using AI: A Neural Network-Based Approach  
+**Author:** Aastik Sharma  
+**Institute:** Maharaja Agrasen Institute of Technology, India  
+**Supervisor:** Mr. Girish Mishra, DRDO  
+**Status:** Intern Research Work
+
+👉 [Click here to read the paper (PDF)](Stream Cipher Classification Using Neural Networks, R-Paper.pdf)
